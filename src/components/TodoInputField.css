@@ -10,3 +10,6 @@
   border-radius: 5px;
   border: 1px solid black;
 }
+.input-container {
+  margin-bottom: 1rem;
+}

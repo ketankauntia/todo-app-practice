@@ -1,0 +1,29 @@
+.todo-list {
+  background-color: rgba(239, 236, 236, 0.667);
+  padding: 8px;
+  align-items: center;
+  margin: 5px;
+  border-radius: 6px;
+  display: flex;
+  width: 20rem;
+  justify-content: space-between;
+}
+
+.del-btn {
+  padding: 7px 9px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.del-btn:hover {
+  background-color: rgb(175, 64, 215);
+  color: white;
+}
+.todo-list:hover {
+  background-color: rgba(201, 201, 201, 0.468);
+}
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
